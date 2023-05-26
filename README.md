@@ -7,5 +7,5 @@ To fully understand how the selected model classifies the news headlines, model 
 
 
 ##### Possible addition:
-Markup : [ ] Use transformer model as classification model
-         [ ] Identify news headline topics using topic modeling
+[ ] Use transformer model as classification model \
+[ ] Identify news headline topics using topic modeling
