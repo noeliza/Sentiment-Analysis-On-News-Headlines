@@ -4,9 +4,9 @@ import re
 from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize, pos_tag
 from nltk.corpus import stopwords
-# import nltk
-# nltk.download('stopwords')
-# nltk.download('averaged_perceptron_tagger')
+import nltk
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger_eng')
 # nltk.download('wordnet')
 # nltk.download('omw-1.4')
 
